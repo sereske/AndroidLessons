@@ -22,6 +22,11 @@
             <option value="$PROJECT_DIR$/p0121logandmess" />
             <option value="$PROJECT_DIR$/p0131menusimple" />
             <option value="$PROJECT_DIR$/p0141menuadv" />
+            <option value="$PROJECT_DIR$/p0151contextmenu" />
+            <option value="$PROJECT_DIR$/p0161dynamiclayout" />
+            <option value="$PROJECT_DIR$/p0171dynamiclayout2" />
+            <option value="$PROJECT_DIR$/p0181dynamiclayout3" />
+            <option value="$PROJECT_DIR$/p0191simplecalculator" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
